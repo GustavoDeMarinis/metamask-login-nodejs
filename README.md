@@ -28,6 +28,10 @@ Now you can simply use to start the server:
 You might also want to change the database.js url so that the app connects to a local or your own MongoDb Atlas
 
 
+https://user-images.githubusercontent.com/47509384/168493318-ef19ff5f-38d5-4ac3-827b-098be4b0456f.mp4
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
